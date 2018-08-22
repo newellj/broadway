@@ -1,0 +1,35 @@
+
+
+body {font-family: Helvetica;
+      text-align: center;
+      }
+
+h1 {font-size: 70px;
+    font-weight: bold;
+    color: red;
+    }
+
+h2 {font-size: 32px;
+    font-weight: bold
+    }
+
+h3 {font-size: 23px;
+    font-weight: bold;
+    }
+
+p  {font-size: 14px;}
+
+.top {background-image: url("");
+      }
+
+.designed {background-image: url("");
+        }
+
+.footer {font-size: 11px;
+          text-align: left;
+          color: white;
+          background-color: dimgray;
+        }
+
+.bottom {font-size: 14px
+        color:white;}
